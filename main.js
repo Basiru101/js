@@ -17,7 +17,7 @@ let box = document.getElementById("changeMe")
 
 function changeColor(){
     if(box.style.background == 'red'){
-        box.style.background = 'yellowgreen'
+        box.style.background = 'green'
         
     }else{
         box.style.background = 'red'
